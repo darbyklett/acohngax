@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eesohwequi.cschneider.eu/sitemap.xml
